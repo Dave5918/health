@@ -1,5 +1,5 @@
 import streamlit as st
-!pip install scikit-learn
+pip install scikit-learn
 st.markdown("<h3 style='text-align:center;'>  Medical Insuarance Cost Estimator </h1>",unsafe_allow_html=True)
 with st.form("smoker"):
     ag=st.text_input("AGE")
