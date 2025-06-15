@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+scikit-learn
+numpy
+pandas
+streamlit
+matplotlib
+=======
+scikit-learn
+numpy
+pandas
+streamlit
+>>>>>>> ef05901fd2bf803a711de7b5c1dc41554df47d09
